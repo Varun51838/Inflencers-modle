@@ -1,2 +1,2 @@
 # Inflencers-modle
-Training Linear regression and Random forest model and comparing them
+Trained Linear regression and Random forest model and compared them
